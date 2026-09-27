@@ -72,6 +72,7 @@ ANY valid object model can be used for [CreatePickup](../functions/CreatePickup)
 | 19606 | ![](https://assets.open.mp/assets/images/pickups/pickup57.png) | Exterior marker (green)            |
 | 19607 | ![](https://assets.open.mp/assets/images/pickups/pickup58.png) | Exterior marker (blue)             |
 | 19832 | ![](https://assets.open.mp/assets/images/pickups/pickup59.png) | Ammunation box                     |
+| 18631 | ![]([https://assets.open.mp/assets/images/pickups/pickup59.png](https://files.prineside.com/gtasa_samp_model_id/white/18631_w.jpg)) | Black-and-yellow striped                     |
 
 ## Weapon pickups
 
